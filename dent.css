@@ -1,0 +1,187 @@
+@media(max-width:500px){
+    .firstpart{
+        background-color: rgb(182, 7, 7);
+        width: 280%;
+    }
+    .secondbox{
+        width: 250%;
+    }
+ 
+    .doctor{
+        width: 125%;
+    }
+    .home{
+        width: 280%;
+     }
+    .secondstep{
+        
+        display: flex;
+        flex-direction: column;
+        height: 220vh;
+        
+        width: 280%;
+        
+        
+
+    }
+    .sec1{
+        width: 1000px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+    } 
+    .secondpara{
+        
+        padding-left: 1rem;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .paragnew{
+        
+        width: 80%;
+        height: 30vh;
+    }
+    .parag{
+        font-size: 30px;
+    }
+    .best{
+        font-size: 50px;
+    }
+    .imp{
+        font-size: 40px;
+    }
+    .parags{
+        width: 40%;
+        height: 50vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: start;
+        
+    }
+    .mouthand{
+        font-size: 50px;
+        color: rgb(6, 112, 112);
+    }
+    .sechead{
+        
+        width: 280%;
+        height: 40vh;
+        display: flex;
+        flex-direction: column;
+        
+        
+    }
+    
+    .buten{
+        
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+        
+    }
+    .teeth{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+        
+        height: 520vh;
+        width: 280%;
+        
+    }
+    
+    .teeth2{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+        
+        height: 520vh;
+        width: 280%;
+
+    }
+    .firsttee{
+        width: 80%;
+        height: 140vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+
+    }
+    .boximage{
+        width: 60%;
+    }
+    .boxtext{
+        font-size: 40px;
+    }
+    .textal{
+        font-size: 40px;
+    }
+    .blueborder{
+        background-color: rgb(6, 112, 112);
+        width: 278%;
+        height: 150vh;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        flex-direction: column;
+        
+    }
+    .blueimage{
+        width: 300px;
+    }
+    .laaast{
+        width: 268%;
+        
+        height: 180vh;
+        
+        
+        
+    }
+    .lastpara{
+        
+        font-size: larger;
+    }
+    .heading{
+        font-size: 30px;
+    }
+    .final{
+        display: flex;
+        flex-direction: column;
+        height: 200vh;
+        background-color: blue;
+        width: 253%;
+    }
+    .insta{
+        background-color: darkgreen;
+        display: flex;
+        flex-direction: column;
+        height: 60vh;
+    }
+    .final1{
+        background-color: cadetblue;
+        font-size: 20px;
+    }
+    .final2{
+        background-color: darkred;
+    }
+    .final3{
+        background-color: rgb(228, 43, 166);
+    }
+    .instalog{
+        width: 60%;
+
+    }
+    .instatext{
+        font-size: 30px;
+    }
+    .loggs{
+        width: 20%;
+    }
+
+}
